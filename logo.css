@@ -1,0 +1,56 @@
+body{
+    
+}
+h1{
+   
+    font-family: fantasy;
+    color: white;
+    text-align: center;
+
+    
+  
+}
+p{
+ 
+}
+#circulo{
+    height:110px;
+  
+    background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(80, 80, 80), black);
+ 
+
+}
+
+img{
+    border: solid;
+    width: 300px;
+    height: 200px;
+}
+
+#video{
+    background-color: rgb(172, 172, 172);
+    width:600px;
+    height: 500px;
+}
+#iddiv{
+    width: 300px;
+    height: 20px;
+    border-radius: 40px;
+    background-image: radial-gradient(rgb(0, 0, 0),rgb(46, 46, 46));
+    color: white;
+    margin-right: 100px;
+    margin-left: 500px;
+    outline: 0px;
+}
+#foto1{
+    width: 35px;
+    height:35px;
+    border-radius: 40px;
+    margin-left: 200px;
+}
+button{
+    border-radius: 45px;
+    width: 100px;
+    height: 20px;
+    background-image: radial-gradient(rgb(255, 255, 255),black);
+}
